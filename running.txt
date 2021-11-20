@@ -1,0 +1,4 @@
+truffle compile
+truffle migrate
+truffle console >>run this code "const token = await Token.deployed() hit enter>>token
+truffle migrate --reset
